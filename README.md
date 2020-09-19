@@ -4,9 +4,11 @@
 1. Install tensorflow_hub
 
   pip install --upgrade tensorflow_hub
+
 2. clone git repository
 
   git clone --depth 1 https://github.com/tensorflow/models
+
 3. Initializing the APIs
 
   %%bash
